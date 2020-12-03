@@ -112,9 +112,32 @@ body {
   font-style: italic;
 }
 
+
 .post-tags {
   display: flex;
   p {
     margin: 0 10px 0 0;
   }
 }
+
+.authors-list ul li{
+  display: inline-block;
+  margin-right: 7px;
+  
+}
+
+.tag-size-5{
+  font-size: 25px;
+  color: black;
+}
+
+.tag-size-3{
+  font-size: 20px;
+  color: rgb(201, 19, 110);
+}
+
+.tag-size-2{
+  font-size: 15px;
+  color: rgb(19, 149, 201);
+}
+
