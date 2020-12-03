@@ -107,4 +107,24 @@ body {
 .post-tags p {
   margin: 0 10px 0 0;
 }
+
+.authors-list ul li {
+  display: inline-block;
+  margin-right: 7px;
+}
+
+.tag-size-5 {
+  font-size: 25px;
+  color: black;
+}
+
+.tag-size-3 {
+  font-size: 20px;
+  color: #c9136e;
+}
+
+.tag-size-2 {
+  font-size: 15px;
+  color: #1395c9;
+}
 /*# sourceMappingURL=style.css.map */
